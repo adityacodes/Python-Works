@@ -59,6 +59,9 @@ list1 = ['banana', 'apple',  'mango']
 # for index in range(len(list1)):
    # print 'Current fruit :', list1[index]
 
+for key in list1:
+	print key
+
 
 # This prints the index of each element in list1 list
 
